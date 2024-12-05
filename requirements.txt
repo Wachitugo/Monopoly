@@ -9,3 +9,4 @@ numpy
 statsmodels
 imbalanced-learn
 xgboost
+flask
